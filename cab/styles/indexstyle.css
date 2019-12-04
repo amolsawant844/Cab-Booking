@@ -1,0 +1,20 @@
+	.carousel-item{
+    height: 50%;
+    width: 100%;
+ 
+}
+} 
+.carousel-item img{
+    height: 500px;
+    width: 800px;
+}
+hr {
+  display: block;
+  margin-top: 0.5em;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1.5px;
+  border-color: rgb(191, 186, 186);
+}
